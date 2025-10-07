@@ -1,1 +1,1 @@
-<img src="./Cover/Ordinance.png"></img>
+<img src="./Ordinance.png"></img>
