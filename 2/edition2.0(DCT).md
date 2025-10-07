@@ -1,3 +1,3 @@
 ...
-<img src="./main/2/you(blue).png)"></a>
-<img src="./main/2/you(yellow).png)"></a>
+<img src="../main/2/you(blue).png)"></a>
+<img src="../main/2/you(yellow).png)"></a>
