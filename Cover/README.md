@@ -1,5 +1,5 @@
-<img src="./Ordinance.png"><center>##The following code is an efficient greater than predicate for some iffiniT solvers##
-Capacitor>>>hertz^Tube1_Tube2
-1MAXh≈1000>2MAXh<901>>ijk
-i(ST)/j-INTERSEX:iffinit><>>\
+<img src="./Ordinance.png"><center>##The following code is an efficient greater than predicate for some iffiniT solvers##<br>
+Capacitor>>>hertz^Tube1_Tube2<br>
+1MAXh≈1000>2MAXh<901>>ijk<br>
+i(ST)/j-INTERSEX:iffinit><>>\<br>
 S∙>D(T4trait)k=tat(e)</center></img>
